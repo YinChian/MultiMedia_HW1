@@ -1,0 +1,13 @@
+Z:\ImageProcess\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe.config
+Z:\ImageProcess\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe
+Z:\ImageProcess\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.pdb
+Z:\ImageProcess\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.AssemblyReference.cache
+Z:\ImageProcess\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.SuggestedBindingRedirects.cache
+Z:\ImageProcess\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Form1.resources
+Z:\ImageProcess\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+Z:\ImageProcess\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.cache
+Z:\ImageProcess\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.CoreCompileInputs.cache
+Z:\ImageProcess\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.exe
+Z:\ImageProcess\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.pdb
+Z:\ImageProcess\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Form2.resources
+Z:\ImageProcess\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Form3.resources
