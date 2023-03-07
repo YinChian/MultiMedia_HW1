@@ -30,7 +30,8 @@ namespace ImageProcessing
         private void button1_Click(object sender, EventArgs e)
         {
             pic1_selected = true;
-            openFileDialog1.InitialDirectory = "C:\\Pictures";
+            //openFileDialog1.InitialDirectory = "C:\\Pictures";
+            openFileDialog1.InitialDirectory = ".\\";
             openFileDialog1.Filter = "PNG|*.png|JPG|*.jpg|BMP|*.bmp";
             if (openFileDialog1.ShowDialog() == DialogResult.OK)
             {
@@ -43,7 +44,8 @@ namespace ImageProcessing
         private void button2_Click(object sender, EventArgs e)
         {
             pic2_selected = true;
-            openFileDialog2.InitialDirectory = "C:\\Pictures";
+            //openFileDialog2.InitialDirectory = "C:\\Pictures";
+            openFileDialog2.InitialDirectory = ".\\";
             openFileDialog2.Filter = "PNG|*.png|JPG|*.jpg|BMP|*.bmp";
             if (openFileDialog2.ShowDialog() == DialogResult.OK)
             {

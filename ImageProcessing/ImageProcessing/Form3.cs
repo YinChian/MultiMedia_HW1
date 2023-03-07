@@ -32,7 +32,7 @@ namespace ImageProcessing
             if(src1.Height != src2.Height || src1.Width != src2.Width)
             {
                 MessageBox.Show(
-                    "兩張圖片大小不相同，請改用\"一般開始\"，謝謝！", 
+                    "兩張圖片大小不相同，請換成顏色位元深度與大小皆相同的兩張圖片，或改用\"一般開始\"，謝謝！", 
                     "錯誤", 
                     MessageBoxButtons.OK, 
                     MessageBoxIcon.Error
@@ -79,7 +79,7 @@ namespace ImageProcessing
                 src2.UnlockBits(src2BmpData);
                 dest.UnlockBits(destBmpData);
                 MessageBox.Show(
-                    "兩張圖片顏色位元深度不同，請改用\"一般開始\"，謝謝！", 
+                    "兩張圖片顏色位元深度不同，請換成顏色位元深度與大小皆相同的兩張圖片，或改用\"一般開始\"，謝謝！", 
                     "錯誤", 
                     MessageBoxButtons.OK, 
                     MessageBoxIcon.Error

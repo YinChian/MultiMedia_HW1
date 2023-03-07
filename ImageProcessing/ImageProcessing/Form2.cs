@@ -98,7 +98,7 @@ namespace ImageProcessing
             }
 
             MessageBox.Show(
-                "完成！按一下視窗的關閉鍵可回到首頁。", 
+                "完成！按一下視窗的關閉鍵可回到首頁。\n您也可以嘗試使用兩張規格相同圖片，並使用Marshal開始。", 
                 "謝謝使用", 
                 MessageBoxButtons.OK, 
                 MessageBoxIcon.Information

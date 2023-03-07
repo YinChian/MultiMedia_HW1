@@ -11,3 +11,16 @@ Z:\ImageProcess\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.exe
 Z:\ImageProcess\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.pdb
 Z:\ImageProcess\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Form2.resources
 Z:\ImageProcess\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Form3.resources
+Z:\MultiMedia\HW1\MultiMedia_HW1\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe.config
+Z:\MultiMedia\HW1\MultiMedia_HW1\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe
+Z:\MultiMedia\HW1\MultiMedia_HW1\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.pdb
+Z:\MultiMedia\HW1\MultiMedia_HW1\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.AssemblyReference.cache
+Z:\MultiMedia\HW1\MultiMedia_HW1\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.SuggestedBindingRedirects.cache
+Z:\MultiMedia\HW1\MultiMedia_HW1\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Form1.resources
+Z:\MultiMedia\HW1\MultiMedia_HW1\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Form2.resources
+Z:\MultiMedia\HW1\MultiMedia_HW1\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Form3.resources
+Z:\MultiMedia\HW1\MultiMedia_HW1\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+Z:\MultiMedia\HW1\MultiMedia_HW1\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.cache
+Z:\MultiMedia\HW1\MultiMedia_HW1\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.CoreCompileInputs.cache
+Z:\MultiMedia\HW1\MultiMedia_HW1\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.exe
+Z:\MultiMedia\HW1\MultiMedia_HW1\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.pdb
